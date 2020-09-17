@@ -1,5 +1,5 @@
 {
-    "name": "m1ome/phalcon-datatables",
+    "name": "takashato/phalcon-datatables",
     "description": "DataTables adapter for Phalcon Framework",
     "keywords": ["Phalcon", "DataTables", "Plugin"],
     "license": "MIT",
@@ -12,6 +12,10 @@
       {
         "name": "Pavel Makarenko",
         "email": "cryfall@gmail.com"
+      },
+      {
+        "name": "Thanh Son Banh",
+        "email": "takashato@gmail.com"
       }
     ],
     "minimum-stability": "dev",
